@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733501743044",
+    "project_id": "iotapp-17a70",
+    "storage_bucket": "iotapp-17a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733501743044:android:abff445d0553b0258a4e91",
+        "android_client_info": {
+          "package_name": "com.iot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJz852hW41Pi-jkuaK4jCDC4K96Rujss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
